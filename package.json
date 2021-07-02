@@ -7,7 +7,13 @@
     "url": "https://github.com/ErikOstlund/punypads_backend.git"
   },
   "license": "EtotheO",
+  "scripts": {
+    "start": "nodemon src/"
+  },
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
   }
 }
