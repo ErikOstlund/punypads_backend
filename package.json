@@ -1,0 +1,13 @@
+{
+  "name": "punypads",
+  "version": "0.1.0",
+  "description": "Backend for React Fullstack app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErikOstlund/punypads_backend.git"
+  },
+  "license": "EtotheO",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
